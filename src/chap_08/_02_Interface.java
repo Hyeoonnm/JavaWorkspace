@@ -1,12 +1,12 @@
-package chap_8;
+package chap_08;
 
-import chap_8.camera.FactoryCam;
-import chap_8.detector.AdvancedFireDetector;
-import chap_8.detector.Detectable;
-import chap_8.detector.FireDetector;
-import chap_8.reporter.NormalReporter;
-import chap_8.reporter.Reportable;
-import chap_8.reporter.VideoReporter;
+import chap_08.camera.FactoryCam;
+import chap_08.detector.AdvancedFireDetector;
+import chap_08.detector.Detectable;
+import chap_08.detector.FireDetector;
+import chap_08.reporter.NormalReporter;
+import chap_08.reporter.Reportable;
+import chap_08.reporter.VideoReporter;
 
 public class _02_Interface {
     public static void main(String[] args) {

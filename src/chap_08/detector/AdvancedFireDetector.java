@@ -1,4 +1,4 @@
-package chap_8.detector;
+package chap_08.detector;
 
 public class AdvancedFireDetector implements Detectable{
     @Override
